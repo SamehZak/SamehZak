@@ -1,5 +1,5 @@
 ## Hi there 👋
-Sameh Zakaria (email:sindbadinreal@gmail.com)
+Sameh Zakaria
 🔭 I’m currently working on building a chatbot for technical support team using whatsapp app
 🌱 I’m currently learning Generative AI
 👯 I’m looking to collaborate on ...
