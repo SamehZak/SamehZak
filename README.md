@@ -8,15 +8,5 @@ Sameh Zakaria (email:sindbadinreal@gmail.com)
 📫 How to reach me: by email (to:sindbadinreal@gmail.com)
 😄 Pronouns: ...
 ⚡ Fun fact: ...
-<body>
 
-<!--
-SamehZak/SamehZak** is a✨ _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-  
-</body>
 
